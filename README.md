@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Didn't found any challenges.
+Didn't find any challenges.
 
 ## License
 
